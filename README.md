@@ -56,7 +56,7 @@ un kanji qu'on ne sait pas lire, tomber sur une traduction en anglais. **Jiyomi 
 | noms propres (lieux, gares, personnes, œuvres) | ~291 000 (JMnedict) |
 | l'anglais | complet, en dernier recours |
 
-Version **dico-42**, publiée en septembre 2026. Le `manifest.json` de la dernière release fait foi.
+Version **dico-43**, publiée en septembre 2026. Le `manifest.json` de la dernière release fait foi.
 
 ## Le français de Jiyomi, et ce qu'il vaut
 
