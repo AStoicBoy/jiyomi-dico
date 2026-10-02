@@ -5,7 +5,7 @@
 <h1 align="center">Jiyomi — le dictionnaire japonais → français</h1>
 
 <p align="center">
-  <b>218 801 mots japonais expliqués en français.</b><br>
+  <b>218 800 mots japonais expliqués en français.</b><br>
   Le plus grand dictionnaire japonais-français librement disponible :
   14 fois le français de JMdict, gratuit, ouvert, sous licence libre.
 </p>
@@ -49,14 +49,14 @@ un kanji qu'on ne sait pas lire, tomber sur une traduction en anglais. **Jiyomi 
 
 | | |
 |---|---|
-| vocabulaire | **218 850** entrées (JMdict) |
-| avec un sens en français | **218 801** (100,0 %) |
+| vocabulaire | **218 849** entrées (JMdict) |
+| avec un sens en français | **218 800** (100,0 %) |
 | dont écrites par des contributeurs de JMdict | 15 336 |
-| dont écrites par Jiyomi | **203 465** |
+| dont écrites par Jiyomi | **203 464** |
 | noms propres (lieux, gares, personnes, œuvres) | ~291 000 (JMnedict) |
 | l'anglais | complet, en dernier recours |
 
-Version **dico-6**, publiée en octobre 2026. Le `manifest.json` de la dernière release fait foi.
+Version **dico-56**, publiée en octobre 2026. Le `manifest.json` de la dernière release fait foi.
 
 ## Le français de Jiyomi, et ce qu'il vaut
 
@@ -107,7 +107,7 @@ Ce dictionnaire est une œuvre dérivée, et il a deux auteurs. Si vous le réut
 - **JMdict** et **JMnedict**, © *Electronic Dictionary Research and Development Group* (EDRDG), Jim Breen,
   <https://www.edrdg.org/>, sous [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (JMdict) et
   [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) (JMnedict) ;
-- **Jiyomi**, pour les 203 465 sens français ajoutés, <https://jiyomi.app>, sous
+- **Jiyomi**, pour les 203 464 sens français ajoutés, <https://jiyomi.app>, sous
   [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Chaque base est distribuée sous la licence de sa source. La table `attribution` de chaque base SQLite et le
@@ -116,7 +116,7 @@ manifeste reprennent ces mentions : pour les retirer, il faut le faire exprès.
 ---
 
 <p align="center">
-  <b>In English.</b> The largest freely available Japanese → French dictionary: 218 801 entries with a French
+  <b>In English.</b> The largest freely available Japanese → French dictionary: 218 800 entries with a French
   meaning, written straight from the Japanese and checked against JMdict's human French (about 99 % accurate
   on common words). CC BY-SA, built on JMdict by the EDRDG. Search it at
   <a href="https://jiyomi.app"><b>jiyomi.app</b></a>, or use it offline in Jiyomi, the camera reading app
