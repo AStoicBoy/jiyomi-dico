@@ -49,14 +49,14 @@ un kanji qu'on ne sait pas lire, tomber sur une traduction en anglais. **Jiyomi 
 
 | | |
 |---|---|
-| vocabulaire | **218 849** entrées (JMdict) |
+| vocabulaire | **218 898** entrées (JMdict) |
 | avec un sens en français | **218 800** (100,0 %) |
 | dont écrites par des contributeurs de JMdict | 15 336 |
 | dont écrites par Jiyomi | **203 464** |
 | noms propres (lieux, gares, personnes, œuvres) | ~291 000 (JMnedict) |
 | l'anglais | complet, en dernier recours |
 
-Version **dico-56**, publiée en octobre 2026. Le `manifest.json` de la dernière release fait foi.
+Version **dico-58**, publiée en octobre 2026. Le `manifest.json` de la dernière release fait foi.
 
 ## Le français de Jiyomi, et ce qu'il vaut
 
